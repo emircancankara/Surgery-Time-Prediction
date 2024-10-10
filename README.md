@@ -116,10 +116,4 @@ Contributions are welcome! If you'd like to improve this project, feel free to:
 
 Please make sure to update tests as appropriate.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust any details, such as adding a specific `requirements.txt` file or additional sections as necessary for your project.
