@@ -48,24 +48,6 @@ Ensure you have the following installed:
   - `scikit-learn`
   - `matplotlib`
 
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/surgery-time-prediction.git
-   cd surgery-time-prediction
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook surgery-time.ipynb
-   ```
-
 ### Usage
 
 1. Load the dataset into a pandas DataFrame.
@@ -114,6 +96,5 @@ Contributions are welcome! If you'd like to improve this project, feel free to:
 - Create a feature branch
 - Submit a Pull Request
 
-Please make sure to update tests as appropriate.
 
 
