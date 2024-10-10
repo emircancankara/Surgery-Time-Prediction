@@ -1,8 +1,3 @@
-# Surgery-Time-Prediction
-Here’s an enhanced and more structured **ReadMe** suitable for sharing on GitHub, following standard practices and adding clarity for potential collaborators or viewers:
-
----
-
 # 🏥 Surgery Time Prediction using Machine Learning
 
 ## 📋 Overview
